@@ -163,7 +163,7 @@
 }
 
 .ex-12-top-white, .ex-12-bottom-white {
-    animation: spin-white 1s linear infinite;
+    animation: spin-white 2s linear infinite;
 }
 
 @keyframes spin-white {
